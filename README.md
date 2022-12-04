@@ -21,13 +21,13 @@ Gigza is a permissionless decentralized freelancing marketplace that allows anyo
 ### Inspiration
 We were inspired to build Gigza, a decentralized freelancing marketplace because we firmly believe that for Web3 to gain true adoption it needs to power real-world business use cases. As freelancers on traditional Web2 platforms, we understand the pain points such as the high service fee paid to the marketplace, in many cases a whopping 20% of revenue, the gated approach to approving freelancers before they can participate, the hassle of transferring funds earned to a local currency and bank account, the threat of countrywide bans, etc. and we also know that Web3 technologies can address most of those challenges. We, therefore, decided to take on this challenge by building a Web3 native freelancing platform/marketplace.
 
-### How I Built It
+### How We Built It
 Gigza was built using smart contracts on Evmos, React for the frontend through Next.js, and access is via a non-custodial wallet like Metamask.
 
-### Challenges I Ran Into
+### Challenges We Ran Into
 The main challenge was the viability of creating a messaging platform to aid communication between clients and freelancers. The other challenge was the problem of arbitration on the platform which is currently based on the intervention of a human operator.
 
-### What I Learned
+### What We Learned
 We learned that the efficiency of Evmos because of the low gas fees and Proof of Stake (PoS) consensus allows for an application like this to be built. It allowed the design of the platform to leverage cheap on-chain interactions.
 
 ### Value Proposition of Gigza
