@@ -1,6 +1,6 @@
 export const dashboardNavLinks = [
     {
-        name:'find talents',
+        name: 'find talents',
         to: '/dashboard/find-talent'
     },
     {
@@ -11,10 +11,10 @@ export const dashboardNavLinks = [
         name: 'proposals',
         to: '/dashboard/proposals',
     },
-    // {
-    //     name: 'contract',
-    //     to: '/dashboard/contract',
-    // },
+    {
+        name: 'post job',
+        to: '/dashboard/hire',
+    },
     {
         name: 'Wallet',
         to: '/dashboard/wallet',
