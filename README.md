@@ -2,7 +2,7 @@
 
 ![Gigza Homepage](gigza.png "Gigza Homepage")
 
-### Live Demo - [https://gigza-app.vercel.app](https://gigza-app.vercel.app)
+### Live Demo - [https://gigza-evmos-hackathon.vercel.app](https://gigza-evmos-hackathon.vercel.app)
 
 ### Tech Stack of Gigza
 * Solidity
